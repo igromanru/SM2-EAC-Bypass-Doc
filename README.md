@@ -28,3 +28,10 @@ During this time you can cheat as you like.
 6. Done. You can use Cheat Engine, WeMod or whatever you want now, but don't try to join public games or PvP, you will be kicked out.  
 
 ## Troubleshooting
+### What to do if the game detects "modded files" when starting with EAC
+Right-click on the game in Steam, choose `Properties...`, open the `Installed Files` tab and execute **Verify integrity of the game files**.  
+![Verify integrity](./Resources/images/verify_integrity.png)  
+
+*If you're not on Steam, use google to find out how to verify the file integrity there.*  
+Then, even while it's running, open `/(game directory)/EasyAntiCheat/` directory and delete the `Settings.bak`, if it exists.  
+After the integrity check is done, reinstall the EAC Launcher and Patcher.
