@@ -6,6 +6,25 @@ When Space Marine 2 starts, it checks if EAC is running and whether certain file
 If it finds modifications, it goes into **modded files** mode.  
 Another check is for mods: if the game finds files in the *mods* directory, it goes into **mods detected** mode.
 ## Description
-The EAC Bypass currently patches ONLY the **modded files** detection, which allows you to start the game without EAC and play Campaign or private PvE games without losing progress.  
+My EAC Bypass currently patches ONLY the **modded files** detection, which allows you to start the game without EAC and play Campaign or private PvE games without losing progress.  
 During this time you can cheat as you like.  
-## Installation
+## How to use
+1. Download **SM2-EAC-Bypass_v(x.y.z).zip** archive from latest release.
+2. Extract the archive somewhere and copy and replace **Warhammer 40000 Space Marine 2.exe** and **SM2-EAC-Patcher.exe** into the root directory of the game.  
+   For Steam it's like: `C:\Program Files (x86)\Steam\steamapps\common\Space Marine 2\`  
+
+   **Hint:** You can create a back-up copy of the original **Warhammer 40000 Space Marine 2.exe** first, but it's not needed.
+3. Launch the game as always, from Steam or wherever you have it from. 
+4. A MessageBox should appear. Select one:  
+   **Yes** - Will start the game normally, with EAC and you will be able to play online  
+
+   **No** - Will start the Patcher and the game without EAC
+
+   **Cancel** - Will cancel the start
+
+   ![MsgBox](./Resources/images/MsgBox.png)
+5. After choosing **No** to start without EAC, the launcher will run **SM2-EAC-Patcher.exe**, which requires Administrator privileges to patch the game at runtime.  
+   Obviously, when the UAC prompt appears, you should press **Yes**.
+6. Done. You can use Cheat Engine, WeMod or whatever you want now, but don't try to join public games or PvP, you will be kicked out.  
+
+## Troubleshooting
