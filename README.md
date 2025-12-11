@@ -9,7 +9,7 @@ Another check is for mods: if the game finds files in the *mods* directory, it g
 My EAC Bypass currently patches ONLY the **modded files** detection, which allows you to start the game without EAC and play Campaign or private PvE games without losing progress.  
 During this time you can cheat as you like.  
 ## How to use
-1. Download **SM2-EAC-Bypass_v(x.y.z).zip** archive from latest release.
+1. Download **SM2-EAC-Bypass_v(x.y.z).zip** archive from latest [release](https://github.com/igromanru/SM2-EAC-Bypass-Doc/releases).
 2. Extract the archive somewhere and copy and replace **Warhammer 40000 Space Marine 2.exe** and **SM2-EAC-Patcher.exe** into the root directory of the game.  
    For Steam it's like: `C:\Program Files (x86)\Steam\steamapps\common\Space Marine 2\`  
 
