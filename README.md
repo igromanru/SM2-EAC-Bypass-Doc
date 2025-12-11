@@ -25,7 +25,7 @@ During this time you can cheat as you like.
    ![MsgBox](./Resources/images/MsgBox.png)
 5. After choosing **No** to start without EAC, the launcher will run **SM2-EAC-Patcher.exe**, which requires Administrator privileges to patch the game at runtime.  
    Obviously, when the UAC prompt appears, you should press **Yes**.
-6. Done. You can use Cheat Engine, WeMod or whatever you want now, but don't try to join public games or PvP, you will be kicked out.  
+6. Done. You can use Cheat Engine, [WeMod](https://www.wemod.com/cheats/warhammer-40000-space-marine-2-trainers) or whatever you want now, but don't try to join public games or PvP, you will be kicked out.  
 
 ## Troubleshooting
 ### What to do if the game detects "modded files" when starting with EAC
