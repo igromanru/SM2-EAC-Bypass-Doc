@@ -13,7 +13,8 @@ During this time you can cheat as you like.
 2. Extract the archive somewhere and copy and replace **Warhammer 40000 Space Marine 2.exe** and **SM2-EAC-Patcher.exe** into the root directory of the game.  
    For Steam it's like: `C:\Program Files (x86)\Steam\steamapps\common\Space Marine 2\`  
 
-   **Hint:** You can create a back-up copy of the original **Warhammer 40000 Space Marine 2.exe** first, but it's not needed.
+   **Hint:** You can create a back-up copy of the original **Warhammer 40000 Space Marine 2.exe** first, but it's not needed.  
+   **Hint 2:** You will have to replace the Launcher (Warhammer 40000 Space Marine 2.exe) after each game update.
 3. Launch the game as always, from Steam or wherever you have it from. 
 4. A MessageBox should appear. Select one:  
    **Yes** - Will start the game normally, with EAC and you will be able to play online  
